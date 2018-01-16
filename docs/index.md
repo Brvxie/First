@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Chanyeol</title>
+		<title>Chanyeol</tittle>
 	</head>
 	<body style="background-color:blue;">
 <img src="http://1.bp.blogspot.com/-yez_-Rs7XTg/U1-lynF_y1I/AAAAAAAABLU/EqUY43iLG4Y/s1600/exo_chanyeol.jpg"/>
