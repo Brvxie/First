@@ -11,7 +11,7 @@
                  <ul>
                     <li style="font-family:verdana">Musica</li>
                     <li style="font-family:verdana"> Tocar instrumentos</li>
-                    <li style="font-family:verdana"> Zoar com os membros do <em>EXO></em></li>
+                    <li style="font-family:verdana"> Zoar com os membros do <em>EXO></em</li>
                  </ul>
 	    <li style="font-size:20px">Trabalho</li>
 	    <ul>
